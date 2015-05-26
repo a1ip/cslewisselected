@@ -2,5 +2,5 @@
 
 * [Введение](README.md)
 * [Бремя славы](TheWeightOfGlory.md)
-* Оглавление
+* [Оглавление](SUMMARY.md)
 
