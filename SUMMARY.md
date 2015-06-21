@@ -2,5 +2,5 @@
 
 * [Введение](README.md)
 * [Бремя славы](TheWeightOfGlory.md)
-* О старинных книгах
+* [О старинных книгах](OnTheReadingOfOldBooks.adoc)
 
