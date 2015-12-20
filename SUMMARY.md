@@ -5,5 +5,5 @@
 * [Бремя славы](TheWeightOfGlory.md)
 * [О старинных книгах](OnTheReadingOfOldBooks.adoc)
 * [Размышления о третьей заповеди](MeditationOnTheThirdCommandment.adoc)
-* [Размышления о Псалмах](Reflections-on-thePsalms.md)
+* [Размышления о псалмах](Reflections-on-thePsalms.md)
 
